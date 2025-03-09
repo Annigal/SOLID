@@ -29,5 +29,5 @@ const processor = new PaymentProcessor();
 const creditCard = new CreditCard();
 const bankTransfer = new BankTransfer();
 
-processor.processPayment(creditCard, 100); // Paid 100 using credit card
-processor.processPayment(bankTransfer, 200); // Paid 200 via bank transfer
+processor.processPayment(creditCard, 100);
+processor.processPayment(bankTransfer, 200);
