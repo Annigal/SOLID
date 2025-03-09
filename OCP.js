@@ -1,4 +1,4 @@
-// Пример демонстрации OCP на JavaScript
+// Пример демонстрации OCP
 
 class PaymentMethod {
     pay(amount) {
