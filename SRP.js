@@ -1,3 +1,5 @@
+// Пример демонстрации SRP
+
 class Employee {
     constructor(name, salary) {
         this.name = name;
